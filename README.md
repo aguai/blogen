@@ -1,2 +1,2 @@
 # docook
-miscellaneous Tool for organizing my personal data 
+miscellaneous tools for organizing my personal data 
