@@ -52,3 +52,4 @@ This project is licensed under the MIT license. See [LICENSE.md](LICENSE.md) for
 details.
 
 © 2017 [Tino Wagner](http://www.tinowagner.com/)
+© 2017 [aguai](https://agu.ai/)
