@@ -3,14 +3,15 @@
 base on [txtu/latex2svg](https://github.com/tuxu/latex2svg)
 
 ## Notice
-- on osx  
+### for osx  
 
 ``` brew cask install mactex ```
 
-- on linux
+### for linux
 
 ``` apt/yum install texlive-full (or somthing like that) ```
 
+> hopefully someday I'll rewrite it all without any subprocess
 
 Python wrapper and CLI utility to render LaTeX markup and equations as SVG using
 [dvisvgm](http://dvisvgm.bplaced.net/).
